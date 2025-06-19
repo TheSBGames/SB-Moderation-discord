@@ -1,6 +1,6 @@
 services:
   - type: web
-    name: lanya
+    name: SB Moderation 
     env: node
     plan: free
     buildCommand: bun install
